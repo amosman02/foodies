@@ -63,6 +63,6 @@ class DefaultFirebaseOptions {
     messagingSenderId: '122488616581',
     projectId: 'foodies-cb5f7',
     storageBucket: 'foodies-cb5f7.appspot.com',
-    iosBundleId: 'com.example.foodies',
+    iosBundleId: 'com.foodies.app',
   );
 }
